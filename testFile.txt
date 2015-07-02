@@ -5,7 +5,7 @@ Planning stage:
 
 Check news :)
 Same team! :)
-louie haha
+louie haha jfhgjhkl;
 =============== GIT ==================
 branch out sa branch
 tig-iisang branch per tao
@@ -24,9 +24,3 @@ BRANCHING
 -git reflog -->view commit
 -git reset -->undo commit
 =======================================
-
-
-
-
-
-
